@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "test01": "nodemon 01/server.js"
+    "test01": "nodemon 01/server.js",
+    "test02-client": "nodemon 02/client.js",
+    "test02-server": "nodemon 02/server.js"
   },
   "dependencies": {
     "cookie-parser": "^1.4.6",
